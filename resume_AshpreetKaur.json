@@ -21,7 +21,7 @@
 				"network": "linkedin",
 				"username": "ashpreet-kaur-51aa17204",
 				"url": "https://www.linkedin.com/in/ashpreet-kaur-51aa17204/"
-			},
+			}
 			
 		]
 	},
@@ -79,7 +79,7 @@
   {
 		"name": "Public-Speaking",
 		"keywords": ["Debates"]
-	},
+	}
                ],
 	"references": []
 }
